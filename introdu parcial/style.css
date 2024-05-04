@@ -1,0 +1,43 @@
+ *
+body {
+  background-color: #33cbea;
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+
+header {
+  background-color: #cd2121;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+
+footer {
+  background-color: #bd0a0a;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1{
+  color: tomato;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+  width: 250px;
+  height: 250px;
+}
+
